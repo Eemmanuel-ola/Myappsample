@@ -1,3 +1,5 @@
 logs/
 *.logs
 my logs
+log.txt
+/dir2
